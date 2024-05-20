@@ -1,1 +1,0 @@
-# js-editorp5-stranger-things
